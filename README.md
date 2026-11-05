@@ -1,11 +1,10 @@
-# Seenuvasan R
-### Python Developer | B.Sc Computer Science Graduate
-
-<p align="left">
-  <a href="https://github.com/Seenu-vasanR">
-    <img src="https://komarev.com/ghpvc/?username=Seenu-vasanR&style=flat-square&color=2563eb" alt="Profile Views"/>
-  </a>
-</p>
+SEENUVASAN R
+🐍 Python Developer
+Computer Science Graduate | Aspiring Software Developer
+Python
+C
+SQL
+Excel
 
 ## About Me
 
