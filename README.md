@@ -1,4 +1,4 @@
-## Hi# Hi 👋, I'm Seenuvasan R
+## Hi 👋, I'm Seenuvasan R
 
 ### 🚀 Aspiring Backend Developer
 
