@@ -88,7 +88,8 @@ A Django-based web application designed to simplify the recruitment process by c
 - CSS
 - SQLite
 
-🔗 **Project Repository:**  
+🔗 **Project Repository:**
+
 [Smart Recruitment System](https://github.com/Seenu-vasanR/SmartRecruitmentSystem)
 
 ---
@@ -117,16 +118,20 @@ Government Arts College, Chidambaram, Tamil Nadu, India
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Seenu-vasanR&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seenu-vasanR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seenu-vasanR&theme=tokyonight" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seenu-vasanR&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seenu-vasanR&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seenu-vasanR&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seenu-vasanR&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
